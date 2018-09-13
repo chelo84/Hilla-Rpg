@@ -1,0 +1,32 @@
+[ {
+  "nome" : "Chelo84",
+  "xpAtual" : 1348,
+  "xpTotal" : 4348,
+  "xpNecessaria" : 2600,
+  "level" : 6,
+  "equipamento" : {
+    "ARMA" : "varinha_de_energia",
+    "ELMO" : "elmo_de_couro",
+    "ESCUDO" : "escudo_de_madeira",
+    "ARMADURA" : "armadura_de_couro"
+  },
+  "forca" : 0,
+  "sorte" : 0,
+  "agilidade" : 0,
+  "vitalidade" : 0,
+  "inteligencia" : 6,
+  "pontosStat" : 0,
+  "pontosStatTotal" : 1,
+  "ataque" : 3,
+  "danoMagico" : 10,
+  "defesa" : 5,
+  "inventario" : [ "pedaco_de_besouro:1", "ouro:28", "carne:6", "adaga:1", "pelo_de_troll:2", null, null, null, null, null, null, null, null, null, null ],
+  "chanceCrit" : 0.0,
+  "chanceEvasao" : 0.0,
+  "vidaAtual" : 100,
+  "armazem" : [ null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ],
+  "magias" : [ "exori_vis", "exori_flam" ],
+  "manaAtual" : 85,
+  "manaMax" : 85,
+  "vidaMax" : 100
+} ]

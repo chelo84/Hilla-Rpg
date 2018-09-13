@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="9" useXmlUI="false">
+    <theme name="Theme">
+        <val key="@capsButtonTextBool" value="false" />
+        <val key="@includeNativeBool" value="true" />
+        <font key="BotaoGrande.font" type="ttf" face="0" style="0" size="0" name="handlee-regular.ttf" family="Handlee-Regular" sizeSettings="2" actualSize="12.0" />
+        <font key="BotaoGrande.press#font" type="ttf" face="0" style="0" size="0" name="handlee-regular.ttf" family="Handlee-Regular" sizeSettings="2" actualSize="12.0" />
+        <font key="BotaoGrande.sel#font" type="ttf" face="0" style="0" size="0" name="handlee-regular.ttf" family="Handlee-Regular" sizeSettings="2" actualSize="12.0" />
+        <font key="BotaoPequeno.font" type="ttf" face="0" style="0" size="0" name="handlee-regular.ttf" family="Handlee-Regular" sizeSettings="0" actualSize="12.0" />
+        <font key="BotaoPequeno.press#font" type="ttf" face="0" style="0" size="0" name="handlee-regular.ttf" family="Handlee-Regular" sizeSettings="0" actualSize="12.0" />
+        <font key="BotaoPequeno.sel#font" type="ttf" face="0" style="0" size="0" name="handlee-regular.ttf" family="Handlee-Regular" sizeSettings="0" actualSize="12.0" />
+        <font key="Button.font" type="ttf" face="0" style="0" size="0" name="handlee-regular.ttf" family="Handlee-Regular" sizeSettings="1" actualSize="12.0" />
+        <font key="Button.sel#font" type="ttf" face="0" style="0" size="0" name="handlee-regular.ttf" family="Handlee-Regular" sizeSettings="1" actualSize="12.0" />
+        <font key="Label.font" type="ttf" face="0" style="0" size="0" name="handlee-regular.ttf" family="Handlee-Regular" sizeSettings="1" actualSize="12.0" />
+        <font key="LabelGrande.font" type="ttf" face="0" style="0" size="0" name="handlee-regular.ttf" family="Handlee-Regular" sizeSettings="2" actualSize="12.0" />
+        <font key="LabelGrande.press#font" type="ttf" face="0" style="0" size="0" name="handlee-regular.ttf" family="Handlee-Regular" sizeSettings="2" actualSize="12.0" />
+        <font key="LabelGrande.sel#font" type="ttf" face="0" style="0" size="0" name="handlee-regular.ttf" family="Handlee-Regular" sizeSettings="2" actualSize="12.0" />
+        <font key="LabelPequeno.font" type="ttf" face="0" style="0" size="0" name="handlee-regular.ttf" family="Handlee-Regular" sizeSettings="0" actualSize="12.0" />
+        <font key="LabelPequeno.press#font" type="ttf" face="0" style="0" size="0" name="handlee-regular.ttf" family="Handlee-Regular" sizeSettings="0" actualSize="12.0" />
+        <font key="LabelPequeno.sel#font" type="ttf" face="0" style="0" size="0" name="handlee-regular.ttf" family="Handlee-Regular" sizeSettings="0" actualSize="12.0" />
+        <val key="MySliderFull.align" value="4" />
+        <val key="MySliderFull.bgColor" value="33ff00" />
+        <val key="MySliderFull.fgColor" value="ffffff" />
+        <val key="MySliderFull.transparency" value="255" />
+        <val key="ScrollThumb.bgColor" value="ffffff" />
+        <val key="ScrollThumb.transparency" value="255" />
+        <val key="Slider.align" value="4" />
+        <val key="Slider.bgColor" value="ffffff" />
+        <val key="Slider.fgColor" value="ffffff" />
+        <val key="Slider.transparency" value="255" />
+        <val key="SliderMana.align" value="4" />
+        <val key="SliderMana.bgColor" value="66cc" />
+        <val key="SliderMana.fgColor" value="0" />
+        <val key="SliderMana.transparency" value="255" />
+        <val key="SliderVida.align" value="4" />
+        <val key="SliderVida.bgColor" value="33ff00" />
+        <val key="SliderVida.fgColor" value="0" />
+        <val key="SliderVida.transparency" value="255" />
+        <val key="SliderXp.align" value="4" />
+        <val key="SliderXp.bgColor" value="ffff00" />
+        <val key="SliderXp.fgColor" value="0" />
+        <val key="SliderXp.transparency" value="255" />
+        <font key="TextArea.font" type="ttf" face="0" style="0" size="0" name="handlee-regular.ttf" family="Handlee-Regular" sizeSettings="1" actualSize="12.0" />
+        <font key="TextArea.press#font" type="ttf" face="0" style="0" size="0" name="handlee-regular.ttf" family="Handlee-Regular" sizeSettings="1" actualSize="12.0" />
+        <font key="TextArea.sel#font" type="ttf" face="0" style="0" size="0" name="handlee-regular.ttf" family="Handlee-Regular" sizeSettings="1" actualSize="12.0" />
+        <font key="Title.font" type="ttf" face="0" style="0" size="0" name="handlee-regular.ttf" family="Handlee-Regular" sizeSettings="1" actualSize="12.0" />
+        <font key="Toolbar.font" type="ttf" face="0" style="0" size="0" name="handlee-regular.ttf" family="Handlee-Regular" sizeSettings="1" actualSize="12.0" />
+        <val key="bgColor" value="000000" />
+        <val key="dis#bgColor" value="000000" />
+        <font key="dis#font" type="ttf" face="0" style="0" size="0" name="handlee-regular.ttf" family="Handlee-Regular" sizeSettings="1" actualSize="12.0" />
+        <val key="fgColor" value="000000" />
+        <font key="font" type="ttf" face="0" style="0" size="0" name="handlee-regular.ttf" family="Handlee-Regular" sizeSettings="1" actualSize="12.0" />
+        <font key="press#font" type="ttf" face="0" style="0" size="0" name="handlee-regular.ttf" family="Handlee-Regular" sizeSettings="1" actualSize="12.0" />
+        <val key="sel#bgColor" value="000000" />
+        <font key="sel#font" type="ttf" face="0" style="0" size="0" name="handlee-regular.ttf" family="Handlee-Regular" sizeSettings="1" actualSize="12.0" />
+        <val key="transparency" value="255" />
+    </theme>
+</resource>

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bola_de_energia",
+    "nome": "Bola de Energia",
+    "custo": 10,
+    "alvo": "inimigo",
+    "tipo": "dano",
+    "valorEfeito": 10,
+    "valorEfeitoRatio": 1.0,
+    "levelNecessario": 1,
+    "unicode": "\uEA2E"
+  },
+
+  {
+    "id": "bola_de_fogo",
+    "nome": "Bola de Fogo",
+    "custo": 11,
+    "alvo": "inimigo",
+    "tipo": "dano",
+    "valorEfeito": 13,
+    "valorEfeitoRatio": 1.0,
+    "levelNecessario": 4,
+    "unicode": "\uE9C3"
+  },
+  
+  {
+    "id": "cura_inferior",
+    "nome": "Cura Inferior",
+    "custo": 15,
+    "alvo": "personagem",
+    "tipo": "curar",
+    "valorEfeito": 11,
+    "valorEfeitoRatio": 0.8,
+    "levelNecessario": 7,
+    "unicode": "\uE9F4"
+  }
+]
